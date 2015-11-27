@@ -1,4 +1,6 @@
 # NiftyView: A Zero-Footprint Web Application for viewing DICOM and NIfTI files
+Author: Weiran Deng and V. Andrew Stenger
+Institute: University of Hawaii JABSOM, Honolulu, HI 96813
 
 ## Introduction
 NiftyView is a free web application developed for viewing medical images. The current version supports both NIfTI[^1] and DICOM[^2] format. It has zero footprint; Only a web browser and an Internet connection are needed to run NiftyView. It’s advantageous over conventional desktop applications in that NiftyView doesn’t require installation and constant updates. It can run on any Operating System as long as an Internet connection is available. As a minimal image viewer, it’s a convenient tool for users who need a quick and easy tool for viewing medical images. Currently, the beta version of NiftyView is freely available at http://www2.hawaii.edu/~weiran/NiftyView.html.  
