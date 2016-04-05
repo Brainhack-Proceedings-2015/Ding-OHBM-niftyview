@@ -12,7 +12,8 @@ For proof-of-concept, functions such as pixel windowing and scaling are programm
 (https://github.com/weirandeng/niftyview_brainhack_report/blob/master/niftyview_ui.png)
 Figure-1 shows a few sagittal MRI images displayed in titled mode after loaidng approximately 1,500 DICOM files from 11 MRI scans. It took approximately ten seconds to load all the DICOM files into NiftyView. The images are organized into different vertical tabs by the sequence names stored in the DICOM files. 
 
-![Image of WebGL vs. Canvas Comparison] (https://github.com/weirandeng/niftiview_brainhack_report/blob/master/2d_vs_gl_processing_time.png)
+![Image of WebGL vs. Canvas Comparison] 
+(https://github.com/weirandeng/niftyview_brainhack_report/blob/master/2d_vs_gl_processing_time.png)
 Figure-2 shows a comparison of processing time as function of the number of image pixels in JavaScript(blue) and WebGL (red). WebGL shows a factor of six to eight accelerations. 
 
 ## Discussion
