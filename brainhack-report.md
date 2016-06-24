@@ -83,14 +83,14 @@ are performed in parallel to a massive number of image pixels.
 See Figures 1 and 2.
 
 \begin{figure}[h!]
-  \includegraphics[width=.47\textwidth]{niftyview_ui}
+  \includegraphics[width=.45\textwidth]{niftyview_ui}
   \caption{\label{centfig}
   A few sagittal MRI images displayed in titled mode after loaidng approximately 1,500 DICOM files from 11 MRI scans. It took approximately ten seconds to load all the DICOM files into NiftyView. The images are organized into different vertical tabs by the sequence names stored in the DICOM files.}
 \end{figure}
 
 
 \begin{figure}[h!]
-  \includegraphics[width=.47\textwidth]{2d_vs_gl_processing_time.png}
+  \includegraphics[width=.45\textwidth]{2d_vs_gl_processing_time.png}
   \caption{\label{centfig}
   Image of WebGL vs. Canvas Comparison. Shows a comparison of processing time as a function of the number of image pixels in JavaScript(blue) and WebGL (red). WebGL shows a factor of six to eight accelerations. }
   \end{figure}

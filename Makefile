@@ -1,6 +1,6 @@
 all: brainhack-report-formatted.tex
 	pdflatex brainhack-report-formatted.tex
-	bibtex brainhack-report-formatted
+	#bibtex brainhack-report-formatted
 	pdflatex brainhack-report-formatted.tex
 	pdflatex brainhack-report-formatted.tex
 	texcount brainhack-report-formatted.tex
