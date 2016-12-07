@@ -27,7 +27,7 @@ coi: None
 
 bibliography: brainhack-report
 
-gigascience-ref: REFXXX
+gigascience-ref: \href{http://gigadb.org/dataset/100222}{doi:10.5524/100222}
 ...
 
 #Introduction
